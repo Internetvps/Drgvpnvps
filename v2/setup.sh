@@ -20,7 +20,7 @@ echo -e "${purple}WELCOME TO PREMIUM AUTOSCRIPTS LIFETIME SETUP${NC}"
 echo -e ""
 echo -e "${purple}==================================================${NC}"
 echo -e ""
-echo -e "     Telegram : ${green}https://t.me/royn628${NC}"
+echo -e "     Telegram : ${green}https://t.me/info_android9${NC}"
 echo -e ""
 echo -e "${purple}==================================================${NC}"
 echo -e ""
@@ -36,7 +36,7 @@ else
 echo -e "${red}Permission Denied!${NC}";
 echo ""
 echo -e "Please Contact Admin"
-echo -e "Telegram t.me/royn628"
+echo -e "Telegram t.me/info_android9"
 echo ""
 rm -f setup.sh
 exit 0
@@ -140,8 +140,8 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   - Autoscript By           : RoynLim"  | tee -a log-install.txt
-echo "   - Telegram                : t.me/royn628"  | tee -a log-install.txt
+echo "   - Autoscript By           : drgvpn"  | tee -a log-install.txt
+echo "   - Telegram                : @info_android9"  | tee -a log-install.txt
 echo "---------------------------------Autoscript drgvpn-----------------------" | tee -a log-install.txt
 echo ""
 echo " Reboot in 5 second"
